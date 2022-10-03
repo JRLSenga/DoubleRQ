@@ -29,5 +29,23 @@ Contains the results of the Statistical Comparison between the Double (r, Q) App
 
 
 ###############################################################################################################
-CODE
+CODE: Files can be found in Double RQ Code.zip
+
+Input Files:
+
+RandomNumbers.csv and SampleParameters.csv
+
+These file names can be changed, but it also has to be changed in the code
+
+Initialization:
+
+There are two initialization files:
+
+1.) Simulation_Initilization.py
+
+This file runs the numerical study which calculates the Double RQ approximation and the Simulation-optimization method.
+
+2.) Initialization.py
+
+This file runs the numerical study which calculates the van der Laan and Teunter (2006) estimate and compares it with the 2RQ and v2RQ policies
 
