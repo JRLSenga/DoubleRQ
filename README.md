@@ -18,3 +18,6 @@ vdl and Teunter Approximated Parameters	- pull policy parameters obtained when u
 Results and Comparison - Percent Cost Difference between the described approaches
 
 
+File Name: Test for Validity of Approximation Results_Github Upload
+
+Contains the results of the Statistical Comparison between the Double (r, Q) Approximation and Procedure 1 in the paper
