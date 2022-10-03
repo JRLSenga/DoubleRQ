@@ -3,7 +3,12 @@ Data for the paper "An Efficient Approximation to the Pull Policy for Hybrid Man
 
 Since this has not yet been published, I will not put who the co-authors are.
 
-The repository contains the Excel File which outlines the results of the numerical studies and approximations presented in the paper
+
+
+
+File Name: Test for Validity of Approximation Results_Github Upload.xlsx
+
+Outlines the results of the numerical studies and approximations presented in the paper
 
 Section Headers:
 
